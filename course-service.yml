@@ -9,7 +9,7 @@ spring:
       max - file - size: 500MB
       max - request - size: 500MB
 server:
-  port: 8081
+  port: 8080
 tencent:
   cos:
     bucket - url: https://edu-sys-1365621130.cos.ap-guangzhou.myqcloud.com
